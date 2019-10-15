@@ -13,6 +13,7 @@ Objectives:
 ● Use the java.lang package.
 
 Tasks:
+
 ● Create a Pythagorean class in javaFun.
 
 javaFun/Pythagorean.java
